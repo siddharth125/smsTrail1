@@ -3,6 +3,7 @@
 //output:- 0- user not authenticated
 //1- user authenticated
 //anything else:- error in input
+//yoyo
 ?>
 
 <?php
